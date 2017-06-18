@@ -1,0 +1,5 @@
+name: KitPVP
+main: net.pvping.kitpvp.KitPvp
+version: 1.8.9.0.1
+author: SPDarklord
+commands:
